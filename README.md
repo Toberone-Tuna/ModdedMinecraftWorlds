@@ -1,7 +1,9 @@
 # ModdedMinecraftWorlds
 
-Repository for backups of modded Minecraft worlds.
+First modded survival world of server.
 
-Go to a different branch (drop-down menu on the top left) to select the world you want.
+Last Played: July 5, 2020
 
-After that, go to Code>Download ZIP to get a zipped file with the world folder inside of it. (The world folder ITSELF that you use should be in the same folder as a README.md file)
+Minecraft Version: Modded 1.12.2 Forge
+
+Mods Link: [https://github.com/Toberone-Tuna/Minecraft-Mods/tree/1.12.2-Mods](https://github.com/Toberone-Tuna/Minecraft-Mods/tree/1.12.2-Mods)
