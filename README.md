@@ -2,6 +2,8 @@
 
 Custom Create "Modpack" World
 
+To download, go to Code>Download ZIP to get a zipped file with the world folder inside of it. (The world folder ITSELF that you use should be in the same folder as a README.md file)
+
 Last Played: July 1, 2021
 
 Minecraft Version: Modded 1.16.5 Forge
