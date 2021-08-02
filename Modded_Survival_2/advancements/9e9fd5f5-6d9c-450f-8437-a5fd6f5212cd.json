@@ -780,6 +780,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage": {
+    "criteria": {
+      "get_item": "2021-08-01 02:54:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -924,6 +930,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2021-08-01 03:01:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -1062,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2021-08-01 05:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:27 +0000"
@@ -1115,7 +1133,9 @@
   "atmospheric:adventure/dunes_pricks": {
     "criteria": {
       "aloe_vera": "2021-06-30 03:19:45 +0000",
-      "yucca_flower": "2021-06-30 03:20:06 +0000"
+      "yucca_leaves": "2021-07-31 02:30:03 +0000",
+      "yucca_flower": "2021-06-30 03:20:06 +0000",
+      "barrel_cactus": "2021-07-31 02:29:03 +0000"
     },
     "done": false
   },
@@ -1839,6 +1859,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/advanced_beehive/expansion_box": {
+    "criteria": {
+      "get_box": "2021-08-01 03:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -1878,6 +1904,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "create:goggles": {
+    "criteria": {
+      "0": "2021-07-31 03:30:47 +0000"
     },
     "done": true
   },
@@ -2445,6 +2477,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2021-07-31 22:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -2715,6 +2753,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-07-31 20:59:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -2904,6 +2948,18 @@
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2021-07-31 03:22:51 +0000"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/overworld_nest": {
+    "criteria": {
+      "get_item": "2021-07-31 02:32:17 +0000"
     },
     "done": true
   },
@@ -4366,6 +4422,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2021-07-31 23:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2021-07-01 02:57:18 +0000"
@@ -4513,6 +4575,7 @@
       "rice": "2021-06-30 04:04:59 +0000",
       "beetroot": "2021-06-30 03:45:11 +0000",
       "brown_mushroom": "2021-07-30 05:52:34 +0000",
+      "cocoa": "2021-08-01 02:36:50 +0000",
       "sugar_cane": "2021-06-30 22:39:38 +0000",
       "potato": "2021-06-30 03:53:04 +0000",
       "red_mushroom": "2021-07-30 07:34:57 +0000",
@@ -6515,6 +6578,12 @@
     },
     "done": true
   },
+  "savageandravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2021-08-01 04:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -6697,6 +6766,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2021-07-31 02:36:48 +0000",
+      "minecraft:bee": "2021-07-31 23:07:52 +0000",
+      "minecraft:pig": "2021-07-31 21:36:06 +0000",
       "minecraft:sheep": "2021-06-30 07:33:47 +0000",
       "minecraft:chicken": "2021-07-01 02:59:09 +0000"
     },
@@ -6747,6 +6819,12 @@
   "create:recipes/create.palettes/gabbro_bricks_wall_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2021-07-31 02:23:51 +0000"
     },
     "done": true
   },
@@ -7008,6 +7086,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_chestplate": "2021-08-01 01:45:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -7077,6 +7161,12 @@
   "create:recipes/create.palettes/andesite_bricks_slab_from_andesite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "create:maxed_windmill": {
+    "criteria": {
+      "0": "2021-07-31 03:31:11 +0000"
     },
     "done": true
   },

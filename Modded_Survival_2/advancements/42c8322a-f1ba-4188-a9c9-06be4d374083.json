@@ -1094,6 +1094,7 @@
   "atmospheric:adventure/dunes_pricks": {
     "criteria": {
       "aloe_vera": "2021-07-01 01:13:56 +0000",
+      "yucca_leaves": "2021-07-31 02:29:34 +0000",
       "yucca_flower": "2021-06-29 23:03:52 +0000",
       "barrel_cactus": "2021-07-01 01:15:59 +0000"
     },
@@ -1204,6 +1205,12 @@
   "create:recipes/create.palettes/dark_scoria_bricks_slab_from_dark_scoria_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2021-07-31 02:27:04 +0000"
     },
     "done": true
   },
@@ -3001,6 +3008,12 @@
     },
     "done": true
   },
+  "rats:rats/plaguedoctor": {
+    "criteria": {
+      "trig": "2021-08-01 01:41:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dolomite_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
@@ -4442,6 +4455,8 @@
       "tomato": "2021-06-30 03:15:08 +0000",
       "rice": "2021-06-30 02:02:32 +0000",
       "beetroot": "2021-07-01 02:28:10 +0000",
+      "sugar_cane": "2021-07-31 02:45:30 +0000",
+      "potato": "2021-08-01 01:19:26 +0000",
       "wheat": "2021-06-30 03:48:47 +0000"
     },
     "done": false
@@ -6918,6 +6933,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_pickaxe": "2021-07-31 01:57:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:48 +0000"
@@ -7341,6 +7362,12 @@
   "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2021-07-31 02:27:20 +0000"
     },
     "done": true
   },
@@ -8522,6 +8549,7 @@
       "minecraft:cold_ocean": "2021-06-29 03:35:19 +0000",
       "minecraft:forest": "2021-06-29 04:41:12 +0000",
       "minecraft:desert_hills": "2021-06-29 03:31:51 +0000",
+      "atmospheric:dunes_hills": "2021-07-31 02:29:07 +0000",
       "minecraft:desert": "2021-06-29 03:09:20 +0000",
       "minecraft:jungle": "2021-06-29 03:02:49 +0000",
       "minecraft:wooded_hills": "2021-06-30 00:19:53 +0000",
@@ -8929,6 +8957,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "environmental:fried_egg": "2021-06-29 20:03:44 +0000",
+      "suspicious_stew": "2021-07-31 02:57:56 +0000",
       "neapolitan:vanilla_fudge": "2021-06-30 03:29:45 +0000",
       "upgrade_aquatic:boiled_purple_pickerelweed": "2021-06-29 03:47:17 +0000",
       "bread": "2021-06-30 23:11:03 +0000",

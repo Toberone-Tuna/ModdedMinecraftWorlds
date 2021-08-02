@@ -3220,11 +3220,13 @@
       "minecraft:pillager": "2021-07-01 18:21:33 +0000",
       "minecraft:blaze": "2021-07-29 04:19:37 +0000",
       "minecraft:skeleton": "2021-06-29 04:20:09 +0000",
+      "savageandravage:creepie": "2021-08-01 05:18:30 +0000",
       "minecraft:ghast": "2021-07-29 04:52:09 +0000",
       "minecraft:hoglin": "2021-07-29 01:50:58 +0000",
       "minecraft:magma_cube": "2021-07-29 02:28:54 +0000",
       "minecraft:spider": "2021-06-29 04:15:34 +0000",
       "minecraft:piglin_brute": "2021-07-30 05:30:03 +0000",
+      "upgrade_aquatic:thrasher": "2021-08-01 03:17:44 +0000",
       "minecraft:creeper": "2021-06-30 01:00:48 +0000",
       "minecraft:phantom": "2021-06-30 06:19:50 +0000",
       "minecraft:zombified_piglin": "2021-07-29 02:29:50 +0000",
@@ -3237,7 +3239,8 @@
       "minecraft:enderman": "2021-07-29 03:45:44 +0000",
       "neapolitan:plantain_spider": "2021-07-01 04:48:39 +0000",
       "minecraft:zombie": "2021-06-29 04:14:25 +0000",
-      "minecraft:drowned": "2021-06-30 03:41:25 +0000"
+      "minecraft:drowned": "2021-06-30 03:41:25 +0000",
+      "minecraft:zombie_villager": "2021-08-01 04:29:08 +0000"
     },
     "done": false
   },
@@ -6651,6 +6654,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2021-08-01 03:17:45 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:58:33 +0000"
@@ -6731,6 +6740,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2021-07-31 21:48:56 +0000",
       "minecraft:horse": "2021-07-01 05:35:31 +0000",
       "minecraft:pig": "2021-07-01 02:55:43 +0000",
       "minecraft:sheep": "2021-06-30 07:16:37 +0000",
@@ -7047,6 +7057,12 @@
   "farmersdelight:recipes/decorations/painting_from_canvas": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:58:33 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_chestplate": "2021-07-31 20:52:06 +0000"
     },
     "done": true
   },
@@ -9752,6 +9768,12 @@
   "create:recipes/create.palettes/fancy_scoria_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:58:34 +0000"
+    },
+    "done": true
+  },
+  "environmental:adventure/upgrade_wanderer_boots": {
+    "criteria": {
+      "upgrade": "2021-07-31 20:23:40 +0000"
     },
     "done": true
   },

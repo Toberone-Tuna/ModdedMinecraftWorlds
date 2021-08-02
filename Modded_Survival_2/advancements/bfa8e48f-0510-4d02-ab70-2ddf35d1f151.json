@@ -3277,10 +3277,13 @@
       "minecraft:blaze": "2021-06-29 20:37:02 +0000",
       "minecraft:pillager": "2021-06-30 01:54:13 +0000",
       "minecraft:skeleton": "2021-06-29 04:27:48 +0000",
+      "savageandravage:creepie": "2021-08-01 02:51:12 +0000",
+      "savageandravage:griefer": "2021-08-01 02:51:19 +0000",
       "minecraft:ghast": "2021-06-29 20:34:59 +0000",
       "minecraft:hoglin": "2021-06-30 21:40:35 +0000",
       "minecraft:spider": "2021-06-29 03:47:30 +0000",
       "minecraft:creeper": "2021-06-29 03:24:19 +0000",
+      "minecraft:phantom": "2021-08-01 06:13:57 +0000",
       "minecraft:zombified_piglin": "2021-06-30 02:49:23 +0000",
       "minecraft:witch": "2021-06-30 05:27:02 +0000",
       "minecraft:wither_skeleton": "2021-06-29 20:39:15 +0000",
@@ -4944,6 +4947,12 @@
   "create:recipes/create.base/crafting/kinetics/linear_chassisfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-07-31 21:19:04 +0000"
     },
     "done": true
   },
@@ -8702,13 +8711,22 @@
       "minecraft:beach": "2021-06-29 22:47:26 +0000",
       "atmospheric:flourishing_dunes": "2021-06-29 23:29:52 +0000",
       "minecraft:river": "2021-06-29 03:08:56 +0000",
+      "minecraft:lukewarm_ocean": "2021-08-01 02:46:19 +0000",
+      "minecraft:wooded_mountains": "2021-07-31 23:18:21 +0000",
+      "autumnity:maple_forest": "2021-08-01 02:53:45 +0000",
+      "minecraft:stone_shore": "2021-08-01 02:48:59 +0000",
       "minecraft:wooded_badlands_plateau": "2021-06-29 03:11:32 +0000",
+      "minecraft:swamp": "2021-08-01 03:10:55 +0000",
       "atmospheric:dunes": "2021-06-29 22:46:17 +0000",
+      "minecraft:cold_ocean": "2021-08-01 03:02:42 +0000",
       "minecraft:forest": "2021-06-29 04:41:02 +0000",
       "minecraft:desert_hills": "2021-06-29 03:55:03 +0000",
       "minecraft:giant_tree_taiga": "2021-06-30 02:21:23 +0000",
+      "minecraft:deep_cold_ocean": "2021-08-01 03:02:58 +0000",
       "minecraft:desert": "2021-06-29 03:10:38 +0000",
       "minecraft:jungle": "2021-06-29 03:02:16 +0000",
+      "minecraft:warm_ocean": "2021-08-01 02:47:32 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-08-01 02:46:15 +0000",
       "minecraft:birch_forest_hills": "2021-06-29 21:50:29 +0000",
       "minecraft:wooded_hills": "2021-06-29 03:20:28 +0000",
       "minecraft:giant_tree_taiga_hills": "2021-06-30 02:21:05 +0000",
@@ -9125,7 +9143,8 @@
       "neapolitan:strawberries": "2021-06-29 20:12:11 +0000",
       "cooked_porkchop": "2021-06-30 22:39:21 +0000",
       "upgrade_aquatic:mulberry": "2021-06-29 03:43:55 +0000",
-      "upgrade_aquatic:boiled_blue_pickerelweed": "2021-06-29 21:14:48 +0000"
+      "upgrade_aquatic:boiled_blue_pickerelweed": "2021-06-29 21:14:48 +0000",
+      "autumnity:foul_berries": "2021-08-01 03:04:57 +0000"
     },
     "done": false
   },
