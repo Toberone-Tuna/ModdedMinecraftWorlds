@@ -3370,6 +3370,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-08-05 14:19:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/horizontal_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:16 +0000"
@@ -10243,6 +10249,12 @@
   "create:recipes/create.base/crafting/kinetics/light_gray_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:16 +0000"
+    },
+    "done": true
+  },
+  "rats:rats/contaminated_food": {
+    "criteria": {
+      "contaminated_food": "2021-08-05 16:14:11 +0000"
     },
     "done": true
   },

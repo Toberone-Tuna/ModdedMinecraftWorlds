@@ -899,6 +899,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2021-08-06 04:11:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
@@ -2438,6 +2444,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2021-08-05 16:46:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:48 +0000"
@@ -2870,6 +2882,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/decorations/advanced_acacia_beehive": {
+    "criteria": {
+      "has_beehive": "2021-08-05 16:52:43 +0000"
+    },
+    "done": true
+  },
   "productivebees:husbandry/bee_cage/overworld_nest": {
     "criteria": {
       "get_item": "2021-06-30 02:05:47 +0000"
@@ -3171,6 +3189,7 @@
       "minecraft:creeper": "2021-06-29 04:10:40 +0000",
       "minecraft:phantom": "2021-06-29 19:55:52 +0000",
       "minecraft:husk": "2021-06-29 03:45:02 +0000",
+      "minecraft:cave_spider": "2021-08-06 03:46:12 +0000",
       "neapolitan:plantain_spider": "2021-07-29 03:26:34 +0000",
       "minecraft:zombie": "2021-06-29 04:16:35 +0000"
     },
@@ -4740,6 +4759,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2021-08-06 03:52:40 +0000"
     },
     "done": true
   },
@@ -6453,6 +6478,12 @@
     },
     "done": true
   },
+  "savageandravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2021-08-07 02:47:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
@@ -6698,6 +6729,12 @@
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
     },
     "done": true
+  },
+  "buzzier_bees:end/all_scented_candles": {
+    "criteria": {
+      "white_clover_scented_candle": "2021-08-06 03:39:47 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
@@ -7812,6 +7849,12 @@
   "create:recipes/create.palettes/paved_dark_scoria_from_dark_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2021-08-05 16:08:33 +0000"
     },
     "done": true
   },
@@ -8966,6 +9009,7 @@
       "cod": "2021-06-30 03:32:03 +0000",
       "cooked_porkchop": "2021-07-01 00:22:33 +0000",
       "upgrade_aquatic:mulberry": "2021-06-29 03:21:39 +0000",
+      "beetroot": "2021-08-07 02:26:58 +0000",
       "carrot": "2021-06-29 04:34:45 +0000"
     },
     "done": false
@@ -10029,6 +10073,12 @@
   "create:recipes/create.base/crafting/kinetics/light_gray_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "buzzier_bees:end/scented_candle": {
+    "criteria": {
+      "scented_candle": "2021-08-06 03:39:47 +0000"
     },
     "done": true
   },

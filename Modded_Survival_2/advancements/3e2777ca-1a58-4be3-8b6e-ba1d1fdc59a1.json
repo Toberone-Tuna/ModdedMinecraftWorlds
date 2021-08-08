@@ -3114,9 +3114,11 @@
       "minecraft:spider": "2021-07-29 02:59:01 +0000",
       "minecraft:piglin_brute": "2021-07-30 05:34:59 +0000",
       "minecraft:creeper": "2021-07-29 03:18:40 +0000",
+      "minecraft:slime": "2021-08-06 03:38:07 +0000",
       "minecraft:cave_spider": "2021-07-29 03:53:50 +0000",
       "minecraft:piglin": "2021-07-29 22:47:11 +0000",
       "minecraft:enderman": "2021-07-29 03:01:46 +0000",
+      "minecraft:silverfish": "2021-08-06 03:24:19 +0000",
       "minecraft:zombie": "2021-07-29 03:01:21 +0000",
       "minecraft:drowned": "2021-07-29 18:56:34 +0000",
       "minecraft:zombie_villager": "2021-07-29 18:56:47 +0000"
@@ -3873,6 +3875,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-08-04 02:43:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_wall_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-07-29 02:21:35 +0000"
@@ -4377,7 +4385,9 @@
       "cocoa": "2021-07-29 02:24:29 +0000",
       "brown_mushroom": "2021-07-30 02:06:41 +0000",
       "red_mushroom": "2021-07-29 04:24:05 +0000",
-      "wheat": "2021-07-29 02:53:42 +0000"
+      "wheat": "2021-07-29 02:53:42 +0000",
+      "pumpkin": "2021-08-08 03:34:39 +0000",
+      "carrot": "2021-08-06 03:20:00 +0000"
     },
     "done": false
   },
@@ -6820,6 +6830,12 @@
   "farmersdelight:recipes/decorations/painting_from_canvas": {
     "criteria": {
       "has_the_recipe": "2021-07-29 02:21:34 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_chestplate": "2021-08-04 03:19:03 +0000"
     },
     "done": true
   },
