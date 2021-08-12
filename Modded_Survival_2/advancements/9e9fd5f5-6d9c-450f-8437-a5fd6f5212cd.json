@@ -239,6 +239,13 @@
     },
     "done": true
   },
+  "neapolitan:husbandry/place_all_chocolate_blocks": {
+    "criteria": {
+      "chocolate_bricks": "2021-08-09 21:00:07 +0000",
+      "chocolate_tiles": "2021-08-09 21:00:09 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -560,6 +567,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2021-08-09 01:22:39 +0000"
     },
     "done": true
   },
@@ -1114,9 +1127,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-07-29 02:12:56 +0000",
       "minecraft:nether_wastes": "2021-07-29 07:23:28 +0000",
-      "minecraft:soul_sand_valley": "2021-07-29 02:12:24 +0000"
+      "minecraft:soul_sand_valley": "2021-07-29 02:12:24 +0000",
+      "minecraft:warped_forest": "2021-08-10 01:56:32 +0000",
+      "minecraft:basalt_deltas": "2021-08-10 01:48:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
     "criteria": {
@@ -2123,6 +2138,12 @@
     },
     "done": true
   },
+  "rats:rats/tame_rat": {
+    "criteria": {
+      "tame_rat": "2021-08-10 04:37:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_dolomite_wall_from_polished_dolomite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -2402,6 +2423,18 @@
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-08-08 17:04:59 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2021-08-10 04:57:36 +0000"
     },
     "done": true
   },
@@ -2921,6 +2954,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2021-08-10 01:16:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/raw_pasta_from_eggs": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -2948,6 +2987,12 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "create:wrench": {
+    "criteria": {
+      "0": "2021-08-10 04:14:43 +0000"
     },
     "done": true
   },
@@ -3272,8 +3317,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-06-29 05:58:54 +0000",
+      "savageandravage:creepie": "2021-08-10 03:58:00 +0000",
+      "minecraft:hoglin": "2021-08-09 01:22:58 +0000",
       "minecraft:spider": "2021-06-29 05:33:56 +0000",
       "minecraft:creeper": "2021-06-29 03:55:26 +0000",
+      "minecraft:slime": "2021-08-09 02:04:34 +0000",
       "savageandravage:iceologer": "2021-07-01 07:23:18 +0000",
       "minecraft:phantom": "2021-07-01 00:43:56 +0000",
       "minecraft:zombified_piglin": "2021-07-29 05:01:22 +0000",
@@ -4058,6 +4106,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-08-10 01:58:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_wall_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -4562,6 +4616,12 @@
     },
     "done": true
   },
+  "rats:rats/rat_upgrade_chef": {
+    "criteria": {
+      "rat_upgrade_basic": "2021-08-10 04:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -4963,6 +5023,12 @@
   "create:recipes/create.base/crafting/kinetics/linear_chassisfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-08-10 03:19:13 +0000"
     },
     "done": true
   },
@@ -5818,6 +5884,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-08-10 04:37:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -6241,6 +6313,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "rats:rats/rat_crafting_table": {
+    "criteria": {
+      "iron_pickaxe": "2021-08-10 04:43:58 +0000"
     },
     "done": true
   },
@@ -7334,6 +7412,12 @@
     },
     "done": true
   },
+  "rats:rats/rat_upgrade_basic": {
+    "criteria": {
+      "rat_upgrade_basic": "2021-08-10 04:43:16 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/neptunium_pickaxe": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:27 +0000"
@@ -7397,6 +7481,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2021-08-09 22:29:14 +0000"
     },
     "done": true
   },
@@ -8741,6 +8831,7 @@
       "minecraft:lukewarm_ocean": "2021-07-01 02:03:27 +0000",
       "minecraft:wooded_mountains": "2021-06-29 03:15:01 +0000",
       "minecraft:bamboo_jungle_hills": "2021-08-07 07:12:05 +0000",
+      "autumnity:maple_forest": "2021-08-08 16:58:03 +0000",
       "minecraft:stone_shore": "2021-07-01 01:51:47 +0000",
       "minecraft:wooded_badlands_plateau": "2021-06-30 03:05:00 +0000",
       "minecraft:swamp": "2021-07-30 07:48:15 +0000",
@@ -9203,6 +9294,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "create:polished_rose_quartz": {
+    "criteria": {
+      "0": "2021-08-10 04:34:18 +0000"
     },
     "done": true
   },
@@ -9785,6 +9882,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:27 +0000"
+    },
+    "done": true
+  },
+  "create:crafter": {
+    "criteria": {
+      "0": "2021-08-10 04:45:29 +0000"
     },
     "done": true
   },

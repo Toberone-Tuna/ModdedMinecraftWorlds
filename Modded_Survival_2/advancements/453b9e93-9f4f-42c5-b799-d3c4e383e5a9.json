@@ -9502,6 +9502,12 @@
     },
     "done": true
   },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2021-08-10 03:09:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:58:34 +0000"

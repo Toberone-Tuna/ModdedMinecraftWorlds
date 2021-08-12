@@ -8897,6 +8897,12 @@
     },
     "done": true
   },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2021-08-12 10:02:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:43 +0000"
@@ -9074,6 +9080,12 @@
   "create:recipes/create.palettes/fancy_gabbro_bricks_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2021-08-12 10:02:35 +0000"
     },
     "done": true
   },

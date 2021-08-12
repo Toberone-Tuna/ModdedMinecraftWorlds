@@ -6706,6 +6706,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "interact": "2021-08-10 01:07:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
@@ -7231,6 +7237,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-08-10 00:25:13 +0000"
     },
     "done": true
   },
@@ -7792,6 +7804,12 @@
     },
     "done": true
   },
+  "productivebees:recipes/decorations/obsidian_nest": {
+    "criteria": {
+      "has_item": "2021-08-10 00:25:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:48 +0000"
@@ -7933,6 +7951,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_grizzly_bear": {
+    "criteria": {
+      "tame": "2021-08-10 01:07:07 +0000"
     },
     "done": true
   },
@@ -9101,6 +9125,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:48 +0000"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2021-08-10 00:42:48 +0000"
     },
     "done": true
   },
