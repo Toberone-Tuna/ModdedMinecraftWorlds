@@ -2006,6 +2006,12 @@
     },
     "done": true
   },
+  "rats:ratlantis/feral_ratlantean": {
+    "criteria": {
+      "killed_by": "2021-08-12 14:51:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/scoria_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:25 +0000"
@@ -2594,6 +2600,12 @@
     },
     "done": true
   },
+  "rats:ratlantis/ghost_pirat": {
+    "criteria": {
+      "item": "2021-08-12 14:52:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/blue_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -2609,6 +2621,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-06-29 04:01:08 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2021-08-12 12:46:55 +0000"
     },
     "done": true
   },
@@ -2981,6 +2999,12 @@
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:27 +0000"
+    },
+    "done": true
+  },
+  "rats:rats/garbage_pile": {
+    "criteria": {
+      "trash_can": "2021-08-12 12:56:35 +0000"
     },
     "done": true
   },
@@ -6508,6 +6532,12 @@
     },
     "done": true
   },
+  "rats:ratlantis/ratlantean_spirit": {
+    "criteria": {
+      "killed_by": "2021-08-12 14:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-06-29 04:08:28 +0000"
@@ -8666,6 +8696,12 @@
     },
     "done": true
   },
+  "rats:ratlantis/ratlantis": {
+    "criteria": {
+      "iron_pickaxe": "2021-08-12 14:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
@@ -9417,6 +9453,12 @@
     },
     "done": true
   },
+  "rats:rats/plague": {
+    "criteria": {
+      "all_effects": "2021-08-12 13:44:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/apple_pie_from_slices": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:27 +0000"
@@ -9624,6 +9666,12 @@
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:26 +0000"
+    },
+    "done": true
+  },
+  "rats:ratlantis/pirat": {
+    "criteria": {
+      "item": "2021-08-12 14:51:57 +0000"
     },
     "done": true
   },

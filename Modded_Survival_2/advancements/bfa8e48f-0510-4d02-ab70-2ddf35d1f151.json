@@ -7981,6 +7981,12 @@
     },
     "done": true
   },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "thief_hood": "2021-08-12 14:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_the_recipe": "2021-06-29 03:02:16 +0000"

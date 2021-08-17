@@ -1325,6 +1325,12 @@
     },
     "done": true
   },
+  "rats:rats/plague_cure": {
+    "criteria": {
+      "plague_leech": "2021-08-12 14:48:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:43 +0000"
@@ -1868,6 +1874,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "rats:ratlantis/feral_ratlantean": {
+    "criteria": {
+      "killed_by": "2021-08-12 14:53:02 +0000"
     },
     "done": true
   },
@@ -2441,6 +2453,12 @@
     },
     "done": true
   },
+  "rats:ratlantis/ghost_pirat": {
+    "criteria": {
+      "item": "2021-08-12 14:50:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/blue_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:43 +0000"
@@ -2534,6 +2552,12 @@
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "buzzier_bees:husbandry/four_leaf_clover": {
+    "criteria": {
+      "four_leaf_clover": "2021-08-12 14:32:19 +0000"
     },
     "done": true
   },
@@ -2816,6 +2840,12 @@
   "create:recipes/create.palettes/polished_dolomite_wall": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "rats:rats/garbage_pile": {
+    "criteria": {
+      "trash_can": "2021-08-12 12:57:08 +0000"
     },
     "done": true
   },
@@ -3857,6 +3887,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2021-08-12 14:31:45 +0000"
     },
     "done": true
   },
@@ -5810,6 +5846,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "rat_upgrade_basic": "2021-08-12 14:31:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:42 +0000"
@@ -6191,6 +6233,12 @@
   "create:recipes/create.palettes/weathered_limestone_cobblestone_slab_from_weathered_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:44 +0000"
+    },
+    "done": true
+  },
+  "rats:ratlantis/ratlantean_spirit": {
+    "criteria": {
+      "killed_by": "2021-08-12 14:53:39 +0000"
     },
     "done": true
   },
@@ -8012,6 +8060,12 @@
     },
     "done": true
   },
+  "rats:ratlantis/token": {
+    "criteria": {
+      "iron_pickaxe": "2021-08-12 14:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:42 +0000"
@@ -8249,6 +8303,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:43 +0000"
+    },
+    "done": true
+  },
+  "rats:ratlantis/ratlantis": {
+    "criteria": {
+      "iron_pickaxe": "2021-08-12 14:41:05 +0000"
     },
     "done": true
   },
@@ -8951,6 +9011,12 @@
     },
     "done": true
   },
+  "rats:rats/plague": {
+    "criteria": {
+      "all_effects": "2021-08-12 13:16:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/apple_pie_from_slices": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:43 +0000"
@@ -9152,6 +9218,12 @@
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_the_recipe": "2021-08-06 05:44:43 +0000"
+    },
+    "done": true
+  },
+  "rats:ratlantis/pirat": {
+    "criteria": {
+      "item": "2021-08-12 14:49:54 +0000"
     },
     "done": true
   },
