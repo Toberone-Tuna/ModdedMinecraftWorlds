@@ -1799,6 +1799,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2021-10-26 00:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_the_recipe": "2021-07-30 04:16:23 +0000"
@@ -2396,6 +2402,12 @@
   "create:recipes/create.palettes/diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-07-30 04:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2021-10-26 00:07:22 +0000"
     },
     "done": true
   },
@@ -8264,7 +8276,9 @@
       "minecraft:bamboo_jungle": "2021-07-30 19:38:05 +0000",
       "minecraft:river": "2021-07-30 04:36:15 +0000",
       "minecraft:wooded_mountains": "2021-07-30 04:40:50 +0000",
+      "minecraft:bamboo_jungle_hills": "2021-10-25 23:05:03 +0000",
       "environmental:blossom_woods": "2021-08-04 17:15:22 +0000",
+      "minecraft:forest": "2021-10-26 00:02:41 +0000",
       "minecraft:giant_tree_taiga": "2021-07-30 04:35:50 +0000",
       "minecraft:jungle": "2021-07-30 04:16:24 +0000",
       "minecraft:giant_tree_taiga_hills": "2021-07-30 04:36:24 +0000",

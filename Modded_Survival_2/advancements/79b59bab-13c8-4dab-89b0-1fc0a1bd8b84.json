@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2021-10-26 00:38:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
@@ -1070,7 +1076,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-08-01 05:18:51 +0000",
-      "minecraft:soul_sand_valley": "2021-08-01 05:18:34 +0000"
+      "minecraft:soul_sand_valley": "2021-08-01 05:18:34 +0000",
+      "minecraft:warped_forest": "2021-10-28 21:37:12 +0000"
     },
     "done": false
   },
@@ -1085,6 +1092,12 @@
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
     },
     "done": true
+  },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "yucca_flower": "2021-10-28 20:42:12 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
@@ -1359,6 +1372,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "rats:rats/plague_cure": {
+    "criteria": {
+      "herb_bundle": "2021-10-27 21:44:46 +0000"
     },
     "done": true
   },
@@ -1770,6 +1789,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2021-11-03 21:06:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
@@ -1893,6 +1918,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "rats:ratlantis/feral_ratlantean": {
+    "criteria": {
+      "killed_by": "2021-10-27 21:12:09 +0000"
     },
     "done": true
   },
@@ -3136,11 +3167,19 @@
     "criteria": {
       "minecraft:pillager": "2021-06-29 17:27:29 +0000",
       "minecraft:skeleton": "2021-06-29 17:44:35 +0000",
+      "savageandravage:executioner": "2021-11-03 21:10:41 +0000",
+      "minecraft:ravager": "2021-11-03 21:12:43 +0000",
       "savageandravage:creepie": "2021-08-01 05:09:43 +0000",
+      "savageandravage:griefer": "2021-11-03 21:08:39 +0000",
+      "minecraft:vindicator": "2021-11-03 21:10:28 +0000",
       "minecraft:spider": "2021-06-29 17:40:35 +0000",
       "minecraft:creeper": "2021-06-29 19:41:11 +0000",
+      "minecraft:evoker": "2021-11-03 21:23:41 +0000",
+      "minecraft:witch": "2021-11-03 21:13:36 +0000",
       "minecraft:husk": "2021-06-30 05:07:28 +0000",
       "minecraft:cave_spider": "2021-06-29 17:42:23 +0000",
+      "minecraft:piglin": "2021-10-26 01:12:54 +0000",
+      "minecraft:silverfish": "2021-10-29 21:46:40 +0000",
       "neapolitan:plantain_spider": "2021-06-29 17:59:40 +0000",
       "minecraft:zombie": "2021-06-29 05:49:17 +0000",
       "minecraft:drowned": "2021-06-29 19:52:13 +0000",
@@ -4431,6 +4470,7 @@
       "onion": "2021-06-29 18:42:15 +0000",
       "sweet_berries": "2021-06-29 06:03:21 +0000",
       "tomato": "2021-06-29 18:42:33 +0000",
+      "brown_mushroom": "2021-10-26 22:32:56 +0000",
       "sugar_cane": "2021-06-30 05:31:28 +0000",
       "wheat": "2021-06-29 19:04:55 +0000",
       "carrot": "2021-06-29 18:41:49 +0000"
@@ -5649,6 +5689,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-10-29 22:16:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
@@ -6243,6 +6289,12 @@
     },
     "done": true
   },
+  "rats:ratlantis/ratlantean_spirit": {
+    "criteria": {
+      "killed": "2021-10-27 21:08:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2021-06-30 06:31:34 +0000"
@@ -6519,6 +6571,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2021-10-28 20:46:23 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:47 +0000"
@@ -6636,6 +6694,12 @@
   "create:recipes/create.palettes/gabbro_bricks_wall_from_gabbro_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2021-10-27 22:16:45 +0000"
     },
     "done": true
   },
@@ -7017,6 +7081,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2021-10-28 20:50:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_bricks_from_dark_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
@@ -7158,6 +7228,12 @@
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2021-10-26 01:36:29 +0000"
     },
     "done": true
   },
@@ -8031,6 +8107,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-10-29 21:46:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_slab_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
@@ -8325,6 +8407,12 @@
     },
     "done": true
   },
+  "rats:ratlantis/ratlantis": {
+    "criteria": {
+      "iron_pickaxe": "2021-10-26 00:35:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:48 +0000"
@@ -8468,24 +8556,39 @@
       "minecraft:jungle_edge": "2021-06-29 05:46:18 +0000",
       "minecraft:mountains": "2021-06-29 05:48:44 +0000",
       "minecraft:badlands_plateau": "2021-06-30 04:57:52 +0000",
+      "minecraft:mushroom_fields": "2021-10-28 20:36:37 +0000",
       "minecraft:taiga": "2021-06-29 05:45:39 +0000",
+      "environmental:marsh": "2021-10-28 20:43:59 +0000",
       "minecraft:taiga_hills": "2021-06-29 18:26:11 +0000",
+      "minecraft:birch_forest": "2021-10-28 20:56:29 +0000",
       "minecraft:jungle_hills": "2021-06-29 05:37:02 +0000",
       "minecraft:bamboo_jungle": "2021-06-30 06:04:05 +0000",
       "minecraft:badlands": "2021-06-29 17:24:32 +0000",
+      "minecraft:savanna_plateau": "2021-10-28 20:39:33 +0000",
       "minecraft:beach": "2021-06-29 06:07:53 +0000",
+      "minecraft:dark_forest": "2021-10-26 01:30:07 +0000",
       "minecraft:river": "2021-06-29 05:46:02 +0000",
       "minecraft:wooded_mountains": "2021-06-29 05:49:04 +0000",
+      "autumnity:maple_forest": "2021-10-28 21:02:52 +0000",
+      "minecraft:stone_shore": "2021-10-29 21:58:47 +0000",
       "minecraft:wooded_badlands_plateau": "2021-06-29 17:24:57 +0000",
+      "minecraft:swamp": "2021-10-26 01:41:44 +0000",
       "environmental:blossom_woods": "2021-07-01 04:51:42 +0000",
+      "autumnity:orange_spotted_dark_forest": "2021-10-27 22:33:17 +0000",
+      "atmospheric:dunes": "2021-10-28 20:42:03 +0000",
       "minecraft:cold_ocean": "2021-06-29 06:16:35 +0000",
       "minecraft:forest": "2021-06-29 06:05:36 +0000",
+      "minecraft:desert_hills": "2021-10-29 21:18:24 +0000",
+      "autumnity:yellow_spotted_forest": "2021-10-27 22:35:04 +0000",
       "minecraft:giant_tree_taiga": "2021-06-29 05:46:36 +0000",
+      "minecraft:deep_cold_ocean": "2021-10-26 01:24:56 +0000",
       "minecraft:desert": "2021-06-29 17:24:34 +0000",
       "minecraft:deep_frozen_ocean": "2021-06-29 06:18:14 +0000",
       "minecraft:jungle": "2021-06-29 05:34:49 +0000",
       "minecraft:wooded_hills": "2021-06-29 06:06:26 +0000",
       "minecraft:giant_tree_taiga_hills": "2021-06-29 05:45:58 +0000",
+      "minecraft:mushroom_field_shore": "2021-10-28 20:36:33 +0000",
+      "minecraft:savanna": "2021-10-28 20:39:18 +0000",
       "minecraft:plains": "2021-06-29 06:03:49 +0000"
     },
     "done": false
@@ -8891,6 +8994,8 @@
       "potato": "2021-08-01 05:03:58 +0000",
       "bread": "2021-06-29 06:11:38 +0000",
       "melon_slice": "2021-06-29 17:49:58 +0000",
+      "upgrade_aquatic:mulberry": "2021-11-03 21:32:04 +0000",
+      "cooked_mutton": "2021-11-03 20:48:48 +0000",
       "sweet_berries": "2021-06-29 05:46:14 +0000",
       "apple": "2021-06-30 04:55:53 +0000",
       "carrot": "2021-06-29 17:26:53 +0000"
