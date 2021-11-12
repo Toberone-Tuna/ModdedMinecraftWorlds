@@ -3949,6 +3949,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-11-09 21:31:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_the_recipe": "2021-06-29 05:34:49 +0000"
@@ -4473,6 +4479,7 @@
       "brown_mushroom": "2021-10-26 22:32:56 +0000",
       "sugar_cane": "2021-06-30 05:31:28 +0000",
       "wheat": "2021-06-29 19:04:55 +0000",
+      "pumpkin": "2021-11-09 22:05:50 +0000",
       "carrot": "2021-06-29 18:41:49 +0000"
     },
     "done": false
