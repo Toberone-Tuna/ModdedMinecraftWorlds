@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2021-11-22 21:58:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/tools/lead_from_rope": {
     "criteria": {
       "has_the_recipe": "2021-07-30 04:16:24 +0000"
@@ -746,6 +752,12 @@
   "create:recipes/create.palettes/fancy_weathered_limestone_bricks_wall_from_fancy_weathered_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2021-07-30 04:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2021-11-22 21:53:17 +0000"
     },
     "done": true
   },
@@ -2909,6 +2921,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-11-22 02:46:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2021-07-30 04:16:23 +0000"
@@ -3049,6 +3067,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2021-11-22 22:03:11 +0000",
+      "minecraft:creeper": "2021-11-22 22:04:09 +0000",
       "minecraft:zombie": "2021-09-21 02:57:13 +0000"
     },
     "done": false
@@ -4307,6 +4327,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2021-11-22 21:57:52 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/scoria_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2021-07-30 04:16:24 +0000"
@@ -5270,6 +5296,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2021-07-30 04:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-11-22 03:15:23 +0000"
     },
     "done": true
   },
