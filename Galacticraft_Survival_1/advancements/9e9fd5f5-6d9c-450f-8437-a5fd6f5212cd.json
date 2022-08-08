@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2022-08-07 23:00:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -491,6 +497,18 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/scrolls": {
+    "criteria": {
+      "criteria_0": "2022-08-04 03:42:35 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2022-08-04 02:37:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -560,6 +578,12 @@
   "botania:challenge/root": {
     "criteria": {
       "flower": "2022-07-30 01:31:08 +0000"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2022-08-07 01:37:38 +0000"
     },
     "done": true
   },
@@ -695,9 +719,21 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2022-08-07 01:38:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2022-07-30 00:16:16 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2022-08-04 03:56:10 +0000"
     },
     "done": true
   },
@@ -706,6 +742,18 @@
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
     },
     "done": true
+  },
+  "buildcraftfactory:draining_the_world": {
+    "criteria": {
+      "code_trigger": "2022-08-03 03:50:52 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/tome_of_arcana": {
+    "criteria": {
+      "criteria_0": "2022-08-04 03:42:43 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
@@ -741,10 +789,14 @@
     "criteria": {
       "zombie_pigman": "2022-07-31 23:58:08 +0000",
       "zombie_villager": "2022-07-30 00:30:21 +0000",
+      "magma_cube": "2022-08-07 02:34:29 +0000",
       "skeleton": "2022-07-30 00:29:28 +0000",
+      "blaze": "2022-08-07 02:47:34 +0000",
       "cave_spider": "2022-07-30 03:29:46 +0000",
       "zombie": "2022-07-30 00:51:09 +0000",
+      "witch": "2022-08-05 07:33:48 +0000",
       "spider": "2022-07-30 00:32:39 +0000",
+      "ghast": "2022-08-07 02:37:33 +0000",
       "creeper": "2022-07-30 00:29:18 +0000",
       "enderman": "2022-07-30 00:35:30 +0000"
     },
@@ -753,6 +805,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "railcraft:tracks/regular_track": {
+    "criteria": {
+      "iron": "2022-08-04 03:23:17 +0000"
     },
     "done": true
   },
@@ -852,6 +910,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-08-07 01:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -876,6 +940,18 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2022-08-04 04:28:39 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/upgrade_table_automatic": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -885,6 +961,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-08-07 01:37:28 +0000"
     },
     "done": true
   },
@@ -1152,6 +1234,12 @@
     },
     "done": true
   },
+  "ebwizardry:defeat_evil_wizard": {
+    "criteria": {
+      "criteria_0": "2022-08-06 00:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -1215,6 +1303,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2022-08-07 01:29:41 +0000"
     },
     "done": true
   },
@@ -1337,6 +1431,8 @@
     "criteria": {
       "forest": "2022-07-30 00:05:40 +0000",
       "birch_forest": "2022-07-30 05:19:32 +0000",
+      "swampland": "2022-08-07 01:29:56 +0000",
+      "beaches": "2022-08-07 01:31:40 +0000",
       "extreme_hills_with_trees": "2022-07-30 00:19:17 +0000",
       "desert_hills": "2022-07-30 23:34:54 +0000",
       "forest_hills": "2022-07-30 00:05:18 +0000",
@@ -1526,6 +1622,18 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/crystal_flowers": {
+    "criteria": {
+      "criteria_0": "2022-08-04 03:42:35 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/upgrade_jar_capacity": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -1583,6 +1691,12 @@
   "totemic:recipes/totem_torch": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/upgrade_table_cycling": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
     },
     "done": true
   },
@@ -1670,6 +1784,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/storage_cell": {
+    "criteria": {
+      "c64k": "2022-08-04 03:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -1727,6 +1847,12 @@
   "minecraft:recipes/decorations/green_bed": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/clear_table_upgrades": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
     },
     "done": true
   },
@@ -1934,6 +2060,12 @@
     },
     "done": true
   },
+  "buildcraftfactory:oil_platform": {
+    "criteria": {
+      "code_trigger": "2022-08-03 03:50:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -1948,6 +2080,12 @@
       "carrot": "2022-07-30 23:26:42 +0000"
     },
     "done": false
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "1": "2022-08-07 01:29:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -1970,6 +2108,12 @@
   "buildcraftsilicon:laser_power": {
     "criteria": {
       "get_laser": "2022-08-01 03:31:31 +0000"
+    },
+    "done": true
+  },
+  "railcraft:carts/root": {
+    "criteria": {
+      "get_cart": "2022-08-04 03:23:17 +0000"
     },
     "done": true
   },
@@ -2042,6 +2186,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charger": {
+    "criteria": {
+      "certus": "2022-08-04 02:02:34 +0000"
     },
     "done": true
   },
@@ -2146,6 +2296,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/clear_jar_upgrades": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
     },
     "done": true
   },
@@ -2431,6 +2587,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-08-07 06:59:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -2488,6 +2650,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:all_clean": {
+    "criteria": {
+      "player_shower": "2022-08-03 01:28:03 +0000"
     },
     "done": true
   },
@@ -2560,6 +2728,14 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:handbook/elements": {
+    "criteria": {
+      "healing": "2022-08-04 03:42:43 +0000",
+      "necromancy": "2022-08-04 03:42:43 +0000",
+      "earth": "2022-08-04 03:42:43 +0000"
     },
     "done": true
   },
@@ -2701,6 +2877,18 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2022-08-04 05:11:22 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:visit_shrine": {
+    "criteria": {
+      "criteria_0": "2022-08-07 02:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -2746,6 +2934,12 @@
   "midnight:midnight/root": {
     "criteria": {
       "enter_midnight": "2022-07-31 05:00:56 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/upgrade_jar_overload": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
     },
     "done": true
   },
@@ -2833,6 +3027,18 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2022-08-04 02:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-08-04 03:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -2875,6 +3081,12 @@
     },
     "done": true
   },
+  "disenchanter:recipes/upgrade_table_bulkdisenchanting": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -2911,6 +3123,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2022-08-04 02:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -2920,6 +3138,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/pattern_terminal": {
+    "criteria": {
+      "certus": "2022-08-04 05:24:06 +0000"
     },
     "done": true
   },
@@ -2989,6 +3213,18 @@
     },
     "done": true
   },
+  "buildcraftsilicon:precision_crafting": {
+    "criteria": {
+      "code_trigger": "2022-08-03 06:00:53 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/fluix": {
+    "criteria": {
+      "certus": "2022-08-04 01:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -3007,9 +3243,27 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/magical_creatures": {
+    "criteria": {
+      "spirit_wolf": "2022-08-03 03:29:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-08-07 01:37:28 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/experience_jar": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
     },
     "done": true
   },
@@ -3091,6 +3345,12 @@
     },
     "done": true
   },
+  "disenchanter:recipes/disenchantment_table": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -3103,6 +3363,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/facade": {
+    "criteria": {
+      "facade": "2022-08-07 09:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
@@ -3112,6 +3378,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-07-30 00:22:27 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2022-08-04 05:24:37 +0000"
     },
     "done": true
   },
@@ -3130,6 +3402,12 @@
   "minecraft:recipes/building_blocks/chiseled_stonebrick": {
     "criteria": {
       "has_the_recipe": "2022-07-30 00:02:26 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/upgrade_table_voiding": {
+    "criteria": {
+      "has_the_recipe": "2022-08-03 00:04:10 +0000"
     },
     "done": true
   },
