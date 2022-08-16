@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "buildcraftenergy:engine": {
+    "criteria": {
+      "redstone_engine": "2022-08-10 21:52:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -861,6 +867,12 @@
     },
     "done": true
   },
+  "midnight:recipes/from_dark_willow_log": {
+    "criteria": {
+      "requirement_1": "2022-08-14 01:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2022-08-07 01:48:18 +0000"
@@ -1034,6 +1046,12 @@
     },
     "done": true
   },
+  "buildcrafttransport:pipe_dream": {
+    "criteria": {
+      "code_trigger": "2022-08-10 21:15:08 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:anger_wizard": {
     "criteria": {
       "criteria_0": "2022-08-04 02:10:01 +0000"
@@ -1128,6 +1146,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-08-08 23:40:09 +0000"
     },
     "done": true
   },
@@ -1426,6 +1450,12 @@
     },
     "done": true
   },
+  "buildcraftcore:free_power": {
+    "criteria": {
+      "code_trigger": "2022-08-10 21:52:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -1473,6 +1503,12 @@
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
     },
     "done": true
+  },
+  "midnight:recipes/from_dirt_and_peat": {
+    "criteria": {
+      "requirement_1": "2022-08-14 01:41:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
@@ -2536,6 +2572,12 @@
     },
     "done": true
   },
+  "ebwizardry:armour_set": {
+    "criteria": {
+      "wizard_hat": "2022-08-11 00:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -2569,6 +2611,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-08-09 00:23:03 +0000"
     },
     "done": true
   },
@@ -2703,6 +2751,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2022-08-12 00:02:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -2724,6 +2778,12 @@
   "astralsorcery:attune_self": {
     "criteria": {
       "attune_self_major": "2022-07-30 09:23:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:dingdong": {
+    "criteria": {
+      "clicked_doorbell": "2022-08-13 23:48:40 +0000"
     },
     "done": true
   },
@@ -3023,6 +3083,7 @@
       "ring_mind_control": "2022-07-30 02:33:25 +0000",
       "charm_minion_health": "2022-08-03 02:59:10 +0000",
       "ring_ice_melee": "2022-08-03 02:32:02 +0000",
+      "charm_lava_walking": "2022-08-10 20:38:56 +0000",
       "charm_storm": "2022-08-05 00:07:27 +0000",
       "amulet_recovery": "2022-08-05 00:06:16 +0000",
       "amulet_absorption": "2022-08-03 20:43:40 +0000",
@@ -3040,6 +3101,7 @@
       "amulet_lich": "2022-08-03 02:36:56 +0000",
       "charm_spell_discovery": "2022-08-03 20:36:40 +0000",
       "ring_earth_biome": "2022-08-05 00:18:15 +0000",
+      "ring_blockwrangler": "2022-08-14 01:47:41 +0000",
       "amulet_auto_shield": "2022-08-04 02:33:16 +0000",
       "ring_paladin": "2022-08-05 00:42:06 +0000"
     },
@@ -3220,6 +3282,12 @@
     },
     "done": true
   },
+  "midnight:recipes/bladeshroom_spores": {
+    "criteria": {
+      "requirement_1": "2022-08-14 01:39:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -3376,6 +3444,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2022-08-13 23:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -3482,37 +3556,48 @@
       "cobwebs": "2022-08-03 21:39:53 +0000",
       "conjure_bow": "2022-08-07 00:08:23 +0000",
       "flame_ray": "2022-08-03 01:09:22 +0000",
+      "stormcloud": "2022-08-10 22:47:06 +0000",
       "flamecatcher": "2022-08-06 00:45:39 +0000",
       "sixth_sense": "2022-08-03 01:28:25 +0000",
       "spider_swarm": "2022-08-07 02:33:55 +0000",
       "pocket_furnace": "2022-08-03 01:43:01 +0000",
       "radiant_totem": "2022-08-05 00:57:34 +0000",
+      "paralysis": "2022-08-10 22:36:10 +0000",
       "fire_resistance": "2022-08-06 00:45:08 +0000",
       "empowering_presence": "2022-08-04 23:48:37 +0000",
+      "invisibility": "2022-08-08 23:40:07 +0000",
       "ice_lance": "2022-08-04 01:07:29 +0000",
+      "permafrost": "2022-08-11 03:05:39 +0000",
       "light": "2022-08-03 20:49:57 +0000",
       "frost_axe": "2022-08-05 00:21:56 +0000",
       "snowball": "2022-08-03 02:40:02 +0000",
+      "forest_of_thorns": "2022-08-08 23:40:20 +0000",
       "lightning_disc": "2022-08-04 01:06:30 +0000",
       "shield": "2022-08-03 04:02:28 +0000",
       "muffle": "2022-08-03 22:04:32 +0000",
       "thunderbolt": "2022-08-03 03:47:27 +0000",
       "summon_zombie": "2022-08-03 01:30:57 +0000",
       "ward": "2022-08-03 01:30:51 +0000",
+      "summon_spirit_horse": "2022-08-08 23:40:09 +0000",
       "slime": "2022-08-03 03:11:01 +0000",
       "dart": "2022-08-03 22:36:01 +0000",
+      "ice_age": "2022-08-10 20:45:32 +0000",
+      "containment": "2022-08-11 03:14:30 +0000",
       "arc": "2022-08-03 20:50:34 +0000",
       "conjure_sword": "2022-08-04 23:47:49 +0000",
+      "static_aura": "2022-08-11 03:27:01 +0000",
       "bubble": "2022-08-05 01:57:52 +0000",
       "leap": "2022-08-05 00:20:46 +0000",
       "fireball": "2022-08-03 20:50:17 +0000",
       "mine": "2022-08-03 22:05:01 +0000",
       "charge": "2022-08-05 00:20:51 +0000",
+      "tornado": "2022-08-11 02:38:37 +0000",
       "poison": "2022-08-04 00:28:22 +0000",
       "wither_skull": "2022-08-07 02:12:03 +0000",
       "blizzard": "2022-08-06 00:45:05 +0000",
       "phase_step": "2022-08-07 00:08:20 +0000",
       "meteor": "2022-08-06 00:45:34 +0000",
+      "lightning_pulse": "2022-08-09 00:20:40 +0000",
       "summon_snow_golem": "2022-08-03 04:02:35 +0000",
       "summon_ice_wraith": "2022-08-07 23:33:46 +0000",
       "reversal": "2022-08-03 01:05:30 +0000",
@@ -3542,15 +3627,19 @@
       "firebolt": "2022-08-03 02:40:23 +0000",
       "water_breathing": "2022-08-06 00:47:10 +0000",
       "earthquake": "2022-08-04 01:06:34 +0000",
+      "combustion_rune": "2022-08-11 02:38:25 +0000",
       "ice_statue": "2022-08-03 02:40:07 +0000",
       "smoke_bomb": "2022-08-03 01:30:59 +0000",
       "firebomb": "2022-08-04 23:18:41 +0000",
+      "summon_ice_giant": "2022-08-11 02:53:44 +0000",
       "ice_shard": "2022-08-03 22:04:30 +0000",
+      "force_arrow": "2022-08-10 20:38:57 +0000",
       "conjure_block": "2022-08-03 00:48:59 +0000",
       "remove_curse": "2022-08-06 00:52:37 +0000",
       "agility": "2022-08-07 00:37:53 +0000",
       "summon_skeleton": "2022-08-06 00:50:53 +0000",
       "dragon_fireball": "2022-08-04 23:47:34 +0000",
+      "fireskin": "2022-08-11 03:01:16 +0000",
       "boulder": "2022-08-04 01:04:53 +0000",
       "group_heal": "2022-08-06 00:47:15 +0000",
       "cure_effects": "2022-08-03 02:40:20 +0000",
@@ -3571,6 +3660,7 @@
       "grapple": "2022-08-03 01:28:15 +0000",
       "wither": "2022-08-07 01:09:59 +0000",
       "oakflesh": "2022-08-03 21:40:30 +0000",
+      "blinding_flash": "2022-08-09 00:20:39 +0000",
       "replenish_hunger": "2022-08-03 01:05:43 +0000"
     },
     "done": false
@@ -3653,15 +3743,25 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol_fortune": {
+    "criteria": {
+      "steal_crystal": "2022-08-14 00:02:07 +0000"
+    },
+    "done": true
+  },
   "midnight:midnight/surface_biomes": {
     "criteria": {
       "biome6": "2022-07-31 02:04:08 +0000",
       "biome7": "2022-07-29 01:00:48 +0000",
+      "biome10": "2022-08-14 01:43:15 +0000",
       "biome5": "2022-07-31 02:03:52 +0000",
       "biome2": "2022-07-31 02:05:44 +0000",
       "biome3": "2022-07-31 02:01:03 +0000",
       "biome0": "2022-07-31 02:04:39 +0000",
-      "biome1": "2022-07-31 02:01:57 +0000"
+      "biome1": "2022-07-31 02:01:57 +0000",
+      "biome8": "2022-08-14 01:38:22 +0000",
+      "biome9": "2022-08-14 01:38:21 +0000",
+      "biome11": "2022-08-14 01:42:27 +0000"
     },
     "done": false
   },
@@ -3710,6 +3810,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2022-08-09 01:19:14 +0000"
     },
     "done": true
   },
@@ -4314,6 +4420,12 @@
   "cfm:appliance_city": {
     "criteria": {
       "place_appliance": "2022-08-07 22:53:52 +0000"
+    },
+    "done": true
+  },
+  "midnight:recipes/from_nightshroom_stem": {
+    "criteria": {
+      "requirement_1": "2022-08-14 01:39:29 +0000"
     },
     "done": true
   },

@@ -426,6 +426,12 @@
     },
     "done": true
   },
+  "astralsorcery:craft_t4_altar": {
+    "criteria": {
+      "altar_craft_t4_altar": "2022-08-12 20:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_the_recipe": "2022-07-28 23:56:05 +0000"
@@ -943,6 +949,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_the_recipe": "2022-07-28 23:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2022-08-15 00:39:46 +0000"
     },
     "done": true
   },
@@ -3059,6 +3071,7 @@
       "charm_undead_helmets": "2022-08-05 22:39:43 +0000",
       "ring_earth_biome": "2022-08-05 19:54:46 +0000",
       "ring_earth_melee": "2022-08-05 19:48:09 +0000",
+      "ring_combustion": "2022-08-12 19:47:04 +0000",
       "charm_experience_tome": "2022-08-06 00:50:42 +0000"
     },
     "done": false
@@ -3560,7 +3573,9 @@
       "summon_zombie": "2022-08-05 18:24:45 +0000",
       "ward": "2022-08-05 21:10:12 +0000",
       "summon_spirit_horse": "2022-08-06 00:59:18 +0000",
+      "lightning_sigil": "2022-08-12 18:58:34 +0000",
       "dart": "2022-07-30 21:38:27 +0000",
+      "ice_age": "2022-08-12 18:56:17 +0000",
       "arc": "2022-07-29 23:16:48 +0000",
       "conjure_sword": "2022-08-06 01:42:44 +0000",
       "bubble": "2022-08-06 01:41:39 +0000",
@@ -3571,7 +3586,9 @@
       "wither_skull": "2022-08-07 06:11:30 +0000",
       "blizzard": "2022-08-05 23:03:16 +0000",
       "phase_step": "2022-08-07 06:08:07 +0000",
+      "entrapment": "2022-08-12 21:02:37 +0000",
       "meteor": "2022-08-06 01:58:23 +0000",
+      "poison_bomb": "2022-08-12 18:58:39 +0000",
       "summon_snow_golem": "2022-07-31 02:41:37 +0000",
       "reversal": "2022-08-05 20:59:14 +0000",
       "curse_of_soulbinding": "2022-08-05 22:59:50 +0000",
@@ -3598,9 +3615,11 @@
       "ice_statue": "2022-08-05 20:36:19 +0000",
       "smoke_bomb": "2022-08-05 18:40:53 +0000",
       "firebomb": "2022-08-05 20:36:28 +0000",
+      "summon_ice_giant": "2022-08-12 18:55:59 +0000",
       "ice_shard": "2022-08-06 01:43:13 +0000",
       "conjure_block": "2022-08-05 19:36:20 +0000",
       "remove_curse": "2022-08-05 23:03:04 +0000",
+      "agility": "2022-08-12 21:02:03 +0000",
       "summon_skeleton": "2022-08-06 01:43:51 +0000",
       "dragon_fireball": "2022-08-06 01:47:58 +0000",
       "boulder": "2022-08-06 02:00:29 +0000",
@@ -3659,6 +3678,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2022-07-31 16:40:29 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:celestial_crystals": {
+    "criteria": {
+      "rock_crystal_in_inventory": "2022-08-12 20:54:35 +0000"
     },
     "done": true
   },
