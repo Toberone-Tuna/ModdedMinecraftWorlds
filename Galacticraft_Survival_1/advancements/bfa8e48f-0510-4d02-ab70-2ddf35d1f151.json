@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2022-08-17 00:39:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -517,6 +523,12 @@
     },
     "done": true
   },
+  "abyssalcraft:shadow_gems": {
+    "criteria": {
+      "necronomicon": "2022-08-17 19:33:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -691,6 +703,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2022-08-18 00:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -815,6 +833,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2022-08-17 23:15:32 +0000"
     },
     "done": true
   },
@@ -1158,6 +1182,12 @@
   "twilightforest:alt/major_landmarks/naga_courtyard": {
     "criteria": {
       "discover": "2022-08-02 19:30:41 +0000"
+    },
+    "done": true
+  },
+  "abyssalcraft:root": {
+    "criteria": {
+      "necronomicon": "2022-08-18 22:21:25 +0000"
     },
     "done": true
   },
@@ -1686,6 +1716,12 @@
     },
     "done": true
   },
+  "wizardry:advancement_devildust": {
+    "criteria": {
+      "craft_devil_dust": "2022-08-17 21:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -1755,6 +1791,12 @@
   "ebwizardry:max_out_wand": {
     "criteria": {
       "criteria_0": "2022-08-04 00:05:20 +0000"
+    },
+    "done": true
+  },
+  "wizardry:advancement_book": {
+    "criteria": {
+      "craft_book": "2022-08-17 19:46:42 +0000"
     },
     "done": true
   },
@@ -2067,6 +2109,12 @@
     },
     "done": true
   },
+  "midnight:midnight/shroomikens": {
+    "criteria": {
+      "thrown_cap": "2022-08-19 00:52:14 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/crystal_flowers": {
     "criteria": {
       "criteria_0": "2022-07-30 01:04:42 +0000"
@@ -2304,6 +2352,12 @@
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:arcane_initiate": {
+    "criteria": {
+      "criteria_0": "2022-08-17 22:56:26 +0000"
     },
     "done": true
   },
@@ -2733,6 +2787,12 @@
     },
     "done": true
   },
+  "mysticalworld:amethyst": {
+    "criteria": {
+      "book": "2022-08-18 23:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2022-07-28 22:36:22 +0000"
@@ -3089,6 +3149,7 @@
       "amulet_absorption": "2022-08-03 20:43:40 +0000",
       "amulet_wisdom": "2022-07-30 01:37:53 +0000",
       "ring_full_moon": "2022-08-03 02:26:55 +0000",
+      "amulet_ice_protection": "2022-08-18 23:17:40 +0000",
       "ring_lightning_melee": "2022-08-04 00:26:16 +0000",
       "ring_extraction": "2022-08-04 23:37:00 +0000",
       "charm_mount_teleporting": "2022-08-05 01:44:13 +0000",
@@ -3116,6 +3177,12 @@
   "twilightforest:alt/entities/blockchain_goblin": {
     "criteria": {
       "hurt": "2022-08-02 22:11:51 +0000"
+    },
+    "done": true
+  },
+  "wizardry:advancement_crunch": {
+    "criteria": {
+      "go_to_underworld": "2022-08-17 20:24:05 +0000"
     },
     "done": true
   },
@@ -3575,6 +3642,7 @@
       "lightning_disc": "2022-08-04 01:06:30 +0000",
       "shield": "2022-08-03 04:02:28 +0000",
       "muffle": "2022-08-03 22:04:32 +0000",
+      "petrify": "2022-08-18 23:01:39 +0000",
       "thunderbolt": "2022-08-03 03:47:27 +0000",
       "summon_zombie": "2022-08-03 01:30:57 +0000",
       "ward": "2022-08-03 01:30:51 +0000",
@@ -3692,6 +3760,12 @@
   "buildcraftenergy:sticky_dipping": {
     "criteria": {
       "oil": "2022-07-30 07:01:35 +0000"
+    },
+    "done": true
+  },
+  "wizardry:advancement_manapool": {
+    "criteria": {
+      "manapool": "2022-08-17 19:42:37 +0000"
     },
     "done": true
   },
@@ -3973,6 +4047,12 @@
   "disenchanter:recipes/upgrade_jar_overload": {
     "criteria": {
       "has_the_recipe": "2022-08-02 23:28:04 +0000"
+    },
+    "done": true
+  },
+  "abyssalcraft:mine_coralium": {
+    "criteria": {
+      "gem": "2022-08-17 19:37:15 +0000"
     },
     "done": true
   },
