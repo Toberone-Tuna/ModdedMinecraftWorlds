@@ -4,7 +4,7 @@ Custom Galacticraft "Modpack" World
 
 To download, go to Code>Download ZIP to get a zipped file with the world folder inside of it. (The world folder ITSELF that you use should be in the same folder as a README.md file)
 
-Last Played: January 23, 2023
+Last Played: February 6, 2023
 
 Minecraft Version: Modded 1.12.2 Forge
 
